@@ -42,7 +42,7 @@ Sebagai siswa kelas X RPL, berikut adalah fondasi utama yang sedang saya pelajar
 
 - 🏫 **Sekolah:** SMK Muhammadiyah 3
 - 🏫 **Jurusan:** Rekayasa Perangkat Lunak (X RPL)
-- ✉️ **Email:** [email_kamu@gmail.com](mailto:email_kamu@gmail.com)
+- ✉️ **Email:** [email_kamu@gmail.com](mailto:raffamlna1610@gmail.com)
 - 💼 **LinkedIn:** [Raffa Maulana](#)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%" />
